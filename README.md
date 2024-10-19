@@ -1,32 +1,22 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I wrote this text-based RPG for my kids to play. It was an opportunirty for me to learn more about the Java language while working on a fun project that can be used and built upon moving forward.
 
-{Provide a description of the software that you wrote to demonstrate the Java language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/OEoqSqgz5I0)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used VSCode and the Java Dev Kit to develop this software.
 
-{Describe the programming language that you used and any libraries.}
+I coded this program in the Java language and used the java.util.Scanner library. I also set up the java.util.Random library to be used in a future version of the game that will have randomized damage. 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Web Site Name](https://www.w3schools.com/java/)
+- [Web Site Name](https://codingzap.com/text-based-adventure-game-java/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Random object usage
+- Handling for invalid inputs
+- Play again function
