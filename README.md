@@ -1,8 +1,16 @@
 # Overview
 
-I wrote this text-based RPG for my kids to play. It was an opportunirty for me to learn more about the Java language while working on a fun project that can be used and built upon moving forward.
+I wrote this text-based RPG for my kids to play. It was an opportunity for me to learn more about the Java language while working on a fun project that can be used and built upon moving forward.
 
 [Software Demo Video](https://youtu.be/OEoqSqgz5I0)
+[Software Demo Video 2] (https://youtu.be/guROC8FdPm4)
+
+Additional features added:
+
+-Colored Text
+-Extra levels
+-Choice with consequence (alternate ending)
+-Restart game feature
 
 # Development Environment
 
